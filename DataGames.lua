@@ -2,7 +2,7 @@ return {
     DTEC = {
         Id = 81440632616906,
         Data = {
-            Name = "Dig To Earth's Core"
+            Name = "Dig To Earth's Core",
             Version = "v.1.0a",
             Maintenance = false,
             Desc =  "-",
