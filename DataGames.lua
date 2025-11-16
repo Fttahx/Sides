@@ -9,14 +9,16 @@ return {
             Link = "https://raw.githubusercontent.com/Fttahx/Games/main/DigToEarthsCore.lua"
         }
     },
+
+
     KAS = {
-        Id = {136404558442020, 87097950093975,96603720482344},
+        Id = {136404558442020,87097950093975,96603720482344},
         Data = {
             Name = "Kayak And Surf",
             Version =  "v.1.0a",
             Maintenance = false,
             Desc = "-",
-            Link = ""
+            Link = "-"
         }
     }
 
