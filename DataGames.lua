@@ -18,7 +18,7 @@ return {
             Version =  "v.2.0a",
             Maintenance = false,
             Desc = "-",
-            Link = "https://cdn.authguard.org/virtual-file/7d3152d340174c85bc26442ea4495894"
+            Link = "https://cdn.authguard.org/virtual-file/d17bb0cec83c4e769044b7f902058ac1"
         }
     }
 
