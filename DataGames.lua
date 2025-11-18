@@ -15,10 +15,10 @@ return {
         Id = {136404558442020,87097950093975,96603720482344,117961667929193},
         Data = {
             Name = "Kayak And Surf",
-            Version =  "v.1.0a",
+            Version =  "v.2.0a",
             Maintenance = false,
             Desc = "-",
-            Link = "https://cdn.authguard.org/virtual-file/27bfe8c2e6f84880a2b777433aa2e5e7"
+            Link = "https://cdn.authguard.org/virtual-file/7d3152d340174c85bc26442ea4495894"
         }
     }
 
